@@ -1,0 +1,10 @@
+# ninja log v6
+2	604	1725561090407647138	CMakeFiles/Ahorcado.dir/main.cpp.o	6f1efa88a425e5a4
+604	716	1725561091007647127	Ahorcado	59e595c48e034ef0
+1	40	1725561520635639434	CMakeFiles/Ahorcado.dir/main.cpp.o	6f1efa88a425e5a4
+2	903	1725561520635639434	CMakeFiles/Ahorcado.dir/Ahorcado.cpp.o	c7e3bcf843b49efe
+3	975	1725561520639639434	CMakeFiles/Ahorcado.dir/monito.cpp.o	84bdefdc74f19838
+975	1066	1725561521611639416	Ahorcado	15b27adafc386c7
+2	621	1725561850063633534	CMakeFiles/Ahorcado.dir/monito.cpp.o	84bdefdc74f19838
+2	633	1725561850063633534	CMakeFiles/Ahorcado.dir/Ahorcado.cpp.o	c7e3bcf843b49efe
+633	725	1725561850691633523	Ahorcado	15b27adafc386c7

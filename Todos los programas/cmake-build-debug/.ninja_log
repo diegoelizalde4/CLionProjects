@@ -1,0 +1,14 @@
+# ninja log v6
+1144	1676	1726545679500259578	CMakeFiles/Todos_los_programas.dir/MergeSort.cpp.o	7753224b890fc85b
+1593	1596	1726545679948259570	CMakeFiles/Todos_los_programas.dir/Prueba.ixx.o	9c53bbc7e24c1a4e
+1123	1593	1726545679480259579	CMakeFiles/Todos_los_programas.dir/QuickSort.cpp.o	3eae085ca5606acb
+1	1412	1726545678356259599	CMakeFiles/Todos_los_programas.dir/main.cpp.o	ab40868ce2cc5922
+1412	1729	1726545679768259573	CMakeFiles/Todos_los_programas.dir/BubbleSort.cpp.o	fb22ac08b533ba36
+1	1144	1726545678356259599	CMakeFiles/Todos_los_programas.dir/Ahorcado.cpp.o	6f9eeb271b30720
+2	1122	1726545678360259599	CMakeFiles/Todos_los_programas.dir/monito.cpp.o	faad5157ed8caed8
+1	41	1726545728516258700	build.ninja	e69ad7da23105a3c
+2	383	1726545728532258700	CMakeFiles/Todos_los_programas.dir/Insersion.cpp.o	9308c4529ca4937a
+2	414	1726545728532258700	CMakeFiles/Todos_los_programas.dir/Seleccion.cpp.o	90bb9aa1b382cf2
+414	539	1726545728944258693	Todos_los_programas	17d317e1925649bb
+2	1281	1726545865172256253	CMakeFiles/Todos_los_programas.dir/main.cpp.o	ab40868ce2cc5922
+1282	1397	1726545866452256230	Todos_los_programas	17d317e1925649bb
